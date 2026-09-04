@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com//anytypetechsolutions/.github/main/assets/logo.png"
+    src="https://raw.githubusercontent.com//anytypetechsolutions/.github/main/assets/Logo.v01.png"
     alt="Any Type Tech Solutions"
     width="180"
   >
