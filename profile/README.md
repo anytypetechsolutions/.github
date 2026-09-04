@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anytypetechsolutions/.github/profile/logo.png"
+    alt="Any Type Tech Solutions"
+    width="180"
+  >
+</p>
+
 # Any Type Tech Solutions
 
 ### **Automation & Optimization for Industrial Problems**
