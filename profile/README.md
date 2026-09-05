@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com//anytypetechsolutions/.github/main/ChatGPT Image Sep 5, 2026, 02_49_15 PM.png"
+    src="https://raw.githubusercontent.com//anytypetechsolutions/.github/main/assests/ChatGPT Image Sep 5, 2026, 02_49_15 PM.png"
     alt="Any Type Tech Solutions"
     width="180"
   >
