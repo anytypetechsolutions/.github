@@ -1,9 +1,6 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com//anytypetechsolutions/.github/main/Logo01.png"
-    alt="Any Type Tech Solutions"
-    width="180"
-  >
+<p align="center">
+  <img src="./assets/Logo01.png" width="100%" alt="ATT — Applied Intelligence">
 </p>
 
 # Any Type Tech Solutions
