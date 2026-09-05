@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="./assets/Logo01.png" width="100%" alt="ATT — Applied Intelligence">
+  <img src="Logo01.png" width="100%" alt="ATT — Applied Intelligence">
 </p>
 
 # Any Type Tech Solutions
